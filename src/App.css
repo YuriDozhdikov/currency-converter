@@ -1,0 +1,26 @@
+body{
+  background-color: #161616;
+  color: #ddd;
+  padding: 50px;
+}
+h1{
+  color: #eef;
+  text-align: center;
+}
+
+.headerContent {
+  display: flex;
+}
+
+.headerContent a {
+  text-decoration: none;
+  color: white;
+}
+
+.headerContent a :hover {
+  color: #335;
+}
+
+.links {
+  margin-right: 15px;
+}
